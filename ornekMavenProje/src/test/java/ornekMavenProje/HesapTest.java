@@ -21,7 +21,7 @@ public class HesapTest {
 		hesaplama h = new hesaplama();
 		
 		int sonuc = h.faktoriyel(10);
-		Assert.assertEquals(3628800,sonuc);
+		Assert.assertEquals(362880,sonuc);
 		
 	}
 
